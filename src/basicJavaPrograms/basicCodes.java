@@ -7,13 +7,11 @@ public class basicCodes {
 		
 		for(i=5;i>=0;i--)
 		{
-			for(j=i; j>=i;j--)
-			{
-				System.out.print("*");
-			}
-			System.out.println();
-					}
+			
+			
+				System.out.println("*");
+			
 
 	}
 
-}
+}}
